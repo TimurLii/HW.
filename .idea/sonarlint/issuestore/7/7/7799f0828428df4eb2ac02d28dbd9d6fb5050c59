@@ -1,0 +1,19 @@
+
+¥
+java:S1598"‚This file "Emploeee.java" should be located in "Molel" directory, not in "D:\GeekBrains\10.Javacore\HomeWork\src\main\java\Model".(ºäşüúÿÿÿÿ8éÀó×„2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºäşüúÿÿÿÿ
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8…Áó×„2
+P
+java:S1068".Remove this unused "secondName" private field.(àµµ…ûÿÿÿÿ8…Áó×„2
+M
+java:S1068	"+Remove this unused "surName" private field.(øˆÛ¥ùÿÿÿÿ8…Áó×„2
+I
+java:S1068
+"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8†Áó×„2
+N
+java:S1068",Remove this unused "position" private field.(©ùéäıÿÿÿÿ8†Áó×„2
+Q
+java:S1068"/Remove this unused "phoneNumber" private field.(Ôá“ùÿÿÿÿ8†Áó×„2
+G
+java:S1068"*Remove this unused "salary" private field.(×„ë‡8‡Áó×„2
