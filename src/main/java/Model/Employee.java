@@ -5,7 +5,6 @@ import lombok.Data;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.List;
 
 
 @Data
@@ -47,12 +46,6 @@ public class Employee implements Comparable<Employee> {
         SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy");
         return format.parse(date);
     }
-
-//    public static void upSalary(List<Employee> employeeList , int procentUp) {
-//        for (Employee employee : employeeList) {
-//            employee.setSalary(employee.getSalary() +((employee.getSalary() * procentUp)) / 100);
-//        }
-//    }
 
     @Override
     public int compareTo(Employee o) {

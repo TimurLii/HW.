@@ -1,5 +1,7 @@
 
 k
-java:S1192"IDefine a constant instead of duplicating this literal "Skladman" 5 times.(„±πώÿÿÿÿ8Λ“µν…2
+java:S1192"IDefine a constant instead of duplicating this literal "Skladman" 5 times.(„±πώÿÿÿÿ8Λ“µν…2
 n
-java:S1192"LDefine a constant instead of duplicating this literal "86543257853" 5 times.(„±πώÿÿÿÿ8Λ“µν…2
+java:S1192"LDefine a constant instead of duplicating this literal "86543257853" 5 times.(„±πώÿÿÿÿ8Λ“µν…2
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(…­Ε8εÿΒν…2
