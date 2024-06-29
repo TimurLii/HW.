@@ -1,7 +1,13 @@
 
 k
-java:S1192"IDefine a constant instead of duplicating this literal "Skladman" 5 times.(Š„±ðþÿÿÿÿ8Ë“µí…2
+java:S1192"IDefine a constant instead of duplicating this literal "Skladman" 5 times.(Š„±ðþÿÿÿÿ8ÆºÍî…2
 n
-java:S1192"LDefine a constant instead of duplicating this literal "86543257853" 5 times.(Š„±ðþÿÿÿÿ8Ë“µí…2
+java:S1192"LDefine a constant instead of duplicating this literal "86543257853" 5 times.(Š„±ðþÿÿÿÿ8ÇºÍî…2
+?
+java:S2189/""Correct this loop's end condition.(ÚÇÞþ8©æåî…2
 Ž
-java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8åÿÂí…2
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8ÐºÍî…2
+H
+java:S1481-"&Remove this unused "a" local variable.(±¿Þ¦øÿÿÿÿ8ÖºÍî…2
+V
+java:S2251/"9"i" is incremented and will never reach "stop condition".(ÚÇÞþ8°æåî…2

@@ -1,0 +1,10 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Skladman" 5 times.(Š„±ğşÿÿÿÿ8ÆºÍî…2
+n
+java:S1192"LDefine a constant instead of duplicating this literal "86543257853" 5 times.(Š„±ğşÿÿÿÿ8ÇºÍî…2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¸ª­øÿÿÿÿ8àğ˜†2
+H
+java:S1481/"&Remove this unused "a" local variable.(±¿Ş¦øÿÿÿÿ8ÖºÍî…2
+V
+java:S22511"9"i" is incremented and will never reach "stop condition".(ÚÇŞş8°æåî…2
